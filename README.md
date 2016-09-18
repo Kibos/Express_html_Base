@@ -1,5 +1,6 @@
-#
+###
 	express project 
+	express + bower + html 
 ###
 ```
 	1.npm i
@@ -7,5 +8,5 @@
 	3.nodemon start
 ```
 #####
-Ô¤±¸ÅäÖÃ£º
+å‰ç½®æ¡ä»¶
 	(1. npm i nodemon -g)
