@@ -1,5 +1,5 @@
 #	express project 
-	express + bower + html 
+	express + bower + html  +angular-translate
 ###
 ```
 	1.npm i
